@@ -1,1 +1,2 @@
 # listprof
+Hice una lista simplemente enlazada para guardar los datos de los profesores. Cada profesor tiene nombre, edad y categoría docente. La lista tiene un método para agregar profesores y tres métodos más: uno que muestra los nombres de los instructores con más de 26 años que están próximos a cambiar a Asistente, otro que muestra toda la lista ordenada por edad de mayor a menor, y otro que devuelve un texto con la cantidad de profesores que hay en cada categoría.
